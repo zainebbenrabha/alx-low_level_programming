@@ -1,10 +1,10 @@
-#include "maih"
+#include "main.h"
 /**
  * _puts_recursion - function like puts();
  * @s: input
  * Return: Always 0
  */
-void _put_recursion.c
+void _put_recursion(char*s)
 {
 	if (*s)
 	{
